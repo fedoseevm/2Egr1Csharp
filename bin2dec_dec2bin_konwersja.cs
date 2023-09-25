@@ -25,7 +25,5 @@ string dec2bin(int dec)
     }
     return wynik;
 }
-
-
 int dec = int.Parse(Console.ReadLine());
 Console.WriteLine(dec2bin(dec));
