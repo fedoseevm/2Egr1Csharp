@@ -138,3 +138,101 @@ void najwiecej_liter()
 //  Pomiędzy nimi znajduje się wodotrysk, do którego zlatują dwa ptaki z wierzchołków obu wieżyc 
 //  i lecąc z jednakową prędkością przybywają w tym samym czasie. 
 //  Napisz program, który obliczy jest dłuższa odległość pozioma wodotrysku jednej z wieżyc?
+void dwie_wiezyce()
+{
+    int h1 = 30;
+    int h2 = 40;
+    int odleglosc = 50;
+    double a;
+    Console.WriteLine("Droga pokonana przez ptaka z wiezy 30 stop - S1, a przez drugiego z wysokosci 40 stop - S2");
+    Console.WriteLine("S1 = S2     dlatego, ze ptaki pokonali swoje drogi z jednakowa predkoscia w tym samym czasie");
+    Console.WriteLine("S1^2 = 30^2 + a^2");
+    Console.Write("S2^2 = 40^2 + (50 - a)^2");
+    Console.WriteLine("\n");
+    Console.WriteLine("30^2 + a^2 = 40^2 + (50 - a)^2");
+    Console.WriteLine("a^2 = 40^2 + 50^2 - 100*a + a^2 - 30^2");
+    Console.WriteLine("100 * a = 40^2 + 50^2 - 30^2");
+    Console.Write("a = (40^2 + 50^2 - 30^2) / 100");
+    Console.WriteLine("\n");
+    a = (Math.Pow(40, 2) + Math.Pow(50, 2) - Math.Pow(30, 2)) / 100;
+    Console.WriteLine("a = {0}", a);
+    Console.WriteLine("b = {0}", 50 - a);
+}
+// dwie_wiezyce();
+
+// 8. Brajanek z Dżesiką grają w siedem. Gra polega na tym, że jeden z graczy podaje granice przedziału <a, b> 
+// a drugi z nich musi szybko odpowiedzieć, ile w tym przedziale jest liczb,
+// które są podzielne przez siedem, albo suma ich cyfr jest podzielna przez siedem (lub jedno i drugie). 
+// Napisz program, który pomaga w takich obliczeniach.
+int suma_cyfr(int n)
+{
+    int suma = 0;
+    while (n > 0)
+    {
+        suma += n % 10;
+        n /= 10;
+    }
+    return suma;
+}
+
+int siedem()
+{
+    int wynik = 0;
+    int poczatek = int.Parse(Console.ReadLine());
+    int koniec = int.Parse(Console.ReadLine());
+    for (int i = poczatek; i <= koniec; i++)
+    {
+        if (i % 7 == 0 || suma_cyfr(i) % 7 == 0)
+            wynik++;
+    }
+    return wynik;
+}
+// Console.WriteLine(siedem());
+
+// 9. Halinka wspina się na schody w centrum handlowym. Za każdym razem, gdy dziewczynka wspina się na nowe schody,
+// zaczyna liczyć na głos po kolei od 1 do ilości stopni. Na przykład,
+// jeśli wspina się na dwa zestawy schodów – jeden z 3 stopniami, a drugi z 4 stopniami – 
+// będzie liczyć tak: 1, 2, 3, 1, 2, 3, 4.Masz dane wszystkie liczby, które Halinka wypowiedziała 
+// podczas całej swojej wycieczki po centrum i Twoim zadaniem jest obliczenie, ile zestawów schodów „zaliczyła”.
+int policz_schody()
+{
+    int wynik = 0;
+    List<int> liczenie_szchodow = new List<int>() { 1, 2, 3, 1, 2, 3, 4, 1, 2, 3, 4, 5, 1, 2 };
+    foreach (int liczba in liczenie_szchodow)
+        if (liczba == 1)
+            wynik++;
+    return wynik;
+}
+// Console.WriteLine("Halinka zaliczyła {0} zestawow schowow", policz_schody());
+
+// 10.Brajanek wybrał się na spacer do parku. Przysiadł na chwilę na parkowej ławce i obserwował
+// przechadzających się ludzi.
+// W parku znajduje się n ławek ponumerowanych od 1 do n. Kiedy Brajanek zaczął swoje
+// obserwacje, na i-tej ławce siedziało ai osób. Do parku przybyło właśnie m osób i każda chciałaby
+// znaleźć sobie miejsce na ławce.
+// Niech k oznacza największą liczbę osób siedzących na jednej ławce (po przyjściu tych dodatkowych m osób). 
+// Jaka jest minimalna, a jaka maksymalna wartość k?
+
+// Ławki (przyklad)
+//  1:  4 osoby
+//  2:  6 osób
+//  3:  2 osoby
+void lawki()
+{
+    int k_max = 0;
+    Console.Write("Podaj ilosc lawek: ");
+    int n = int.Parse(Console.ReadLine());
+    List<int> osoby_na_lawce = new List<int>();
+    for (int i = 1; i <= n; i++)
+    {
+        Console.Write("Lawka {0}: ", i);
+        osoby_na_lawce.Add(int.Parse(Console.ReadLine()));
+        k_max += osoby_na_lawce[i - 1];
+    }
+    Console.Write("Ile osob przybylo: ");
+    int m = int.Parse(Console.ReadLine());
+    Console.WriteLine();
+    Console.WriteLine("k max: {0}", k_max);
+    Console.WriteLine("k min: {0}", Math.Floor((decimal)((k_max + m) / n)));
+}
+// lawki();
