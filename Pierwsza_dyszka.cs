@@ -32,15 +32,20 @@ void liczby_nww_nwd()
         {
             pierwsza = i;
             druga = iloczyn / i;
+            Console.WriteLine("Pierwsza: {0}", pierwsza);
+            Console.WriteLine("Druga: {0}", druga);
+            Console.WriteLine();
             if (nwd(pierwsza, druga) == nwd_liczba && nww(pierwsza, druga) == nww_liczba && pierwsza >= druga)
-                Console.WriteLine(pierwsza + " " + druga);
+            {
+                Console.WriteLine("Wynik: " + pierwsza + " " + druga);
+                break;
+            }
         }
     }
 }
 // liczby_nww_nwd();
 
 // 2. Sprawdź czy suma dwóch ułamków podanych przez usera jest ułamkiem niewłaściwym.
-
 string czy_ulamki_niewl()
 {
     int l1 = int.Parse(Console.ReadLine());
@@ -50,7 +55,7 @@ string czy_ulamki_niewl()
     int l2 = int.Parse(Console.ReadLine());
     Console.WriteLine("/");
     int m2 = int.Parse(Console.ReadLine());
-    int nww = (l1 * l2) / nwd(m1, m2);
+    int nww = (m1 * m2) / nwd(m1, m2);
     int wynik = l1 * nww / m1 + l2 * nww / m2;
     if (wynik > nww)    return "Ulamek niewlasciwy";
     else                return "Nie jest ulamkiem niewlasciwym";
@@ -68,14 +73,16 @@ string ulamek_czy_odwr()
     Console.WriteLine("/");
     int m2 = int.Parse(Console.ReadLine());
     //================
-    int nww_ulamka = (l1 * l2) / nwd(m1, m2);
+    int nww_ulamka = (m1 * m2) / nwd(m1, m2);
     int licznik_ulamka = l1 * nww_ulamka / m1 + l2 * nww_ulamka / m2;
     //----------------
-    int nww_odwr = (m1 * m2) / nwd(l1, l2);
+    int nww_odwr = (l1 * l2) / nwd(l1, l2);
     int licznik_odwr = m1 * nww_odwr / l1 + m2 * nww_odwr / l2;
     //================
     if (licznik_ulamka / nww_ulamka > licznik_odwr / nww_odwr)
         return "suma dwóch wpisanych przez usera ułamków jest wieksza od ich odwrotności";
+    else if (licznik_ulamka / nww_ulamka == licznik_odwr / nww_odwr)
+        return "Suma dwóch wpisanych przez usera ułamków jest równa do sumy ich odwrotności";
     else
         return "Odwrotnosc jest wieksza";
 }
@@ -124,10 +131,11 @@ void najwiecej_liter()
     string napis = Console.ReadLine();
     napis = napis.ToUpper();
     char[] literki = napis.ToCharArray();
-    int[] ints = new int[100];
+    int[] ints = new int[26];
     foreach (char c in literki)
-        ints[c]++;
-    Console.WriteLine(literki[ints.Max()]); 
+        ints[(int)(c - 'A')]++;
+    Console.WriteLine(ints.Max());
+    Console.WriteLine((char)('A' + Array.IndexOf(ints, ints.Max())));
 }
 // najwiecej_liter();
 
