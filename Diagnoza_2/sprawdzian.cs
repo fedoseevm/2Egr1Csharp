@@ -159,19 +159,11 @@ foreach (int w in wynik)
 
 int n = int.Parse(Console.ReadLine());
 List<int> pierwsze = new List<int>();
-int suma_pierwszych = 0;
-int i = 5;
 if (czy_p(n) && n > 7)
 {
-    while (suma_pierwszych < n)
-    {
-        i += 2;
+    for (int i = 7; i < n; i += 2)
         if (czy_p(i))
-        {
             pierwsze.Add(i);
-            suma_pierwszych += i;
-        }
-    }
     //Console.WriteLine(suma_pierwszych);
     //Console.WriteLine(i);
 
