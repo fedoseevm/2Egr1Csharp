@@ -1,0 +1,6 @@
+1. Ile miast mamy w zestawieniu?
+2. Wypisz miasta na T.
+3. Wypisz miasta z Nevady
+4. Wypisz miasto najdalej oddalone na północ
+5*. Zakładając, że jeden stopień geograficzny to 111 km oblicz odległość między Reno a Utica
+6**. Podaj 2 najdalej oddalone od siebie miasta.
