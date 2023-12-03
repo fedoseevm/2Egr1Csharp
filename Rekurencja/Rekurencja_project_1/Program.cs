@@ -194,15 +194,50 @@ namespace ConsoleApp1
             }
             Console.WriteLine("\n");
 
-
+            
             // d) 1 3 4 8 15 27 ...
+            int reku6d(int n)
+            {
+                if (n == 0) return 1;
+                if (n == 1) return 3;
+                if (n == 2) return 4;
+                else return reku6d(n - 3) + reku6d(n - 2) + reku6d(n - 1);
+            }
+            for (int i = 0; i < 9; i++)
+            {
+                Console.Write(reku6d(i) + " ");
+            }
+            Console.WriteLine("\n");
 
-
-            // 4 5 -3 2 14 22 48 
+            // e) 4 5 -3 2 14 22 48 
             // 2 * 4 + 2 * (-3) = 2
+            int reku6e(int n)
+            {
+                if (n == 0) return 4;
+                if (n == 1) return 5;
+                if (n == 2) return -3;
+                else return 2 * reku6e(n - 3) + 2 * reku6e(n - 1);
+            }
+            for (int i = 0; i < 9; i++)
+            {
+                Console.Write(reku6e(i) + " ");
+            }
+            Console.WriteLine("\n");
 
-
-            // 1 1 1 6 11 31
+            // f) 1 1 1 6 11 31
+            int reku6f(int n)
+            {
+                if (n == 0) return 1;
+                if (n == 1) return 1;
+                if (n == 2) return 1;
+                if (n == 3) return 2 * (reku6f(n - 3) + reku6f(n - 2) + reku6f(n - 1));
+                else return reku6f(n - 3) + reku6f(n - 2) + reku6f(n - 1) + 3 + 10 * (n - 4);
+            }
+            for (int i = 0; i < 9; i++)
+            {
+                Console.Write(reku6f(i) + " ");
+            }
+            Console.WriteLine("\n");
         }
     }
 }
