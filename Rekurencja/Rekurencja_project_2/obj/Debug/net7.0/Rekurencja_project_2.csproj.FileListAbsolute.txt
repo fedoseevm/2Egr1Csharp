@@ -1,0 +1,15 @@
+C:\Users\uczen\2E MF\Csharp\Rekurencja\Rekurencja_project_2\bin\Debug\net7.0\Rekurencja_project_2.exe
+C:\Users\uczen\2E MF\Csharp\Rekurencja\Rekurencja_project_2\bin\Debug\net7.0\Rekurencja_project_2.deps.json
+C:\Users\uczen\2E MF\Csharp\Rekurencja\Rekurencja_project_2\bin\Debug\net7.0\Rekurencja_project_2.runtimeconfig.json
+C:\Users\uczen\2E MF\Csharp\Rekurencja\Rekurencja_project_2\bin\Debug\net7.0\Rekurencja_project_2.dll
+C:\Users\uczen\2E MF\Csharp\Rekurencja\Rekurencja_project_2\bin\Debug\net7.0\Rekurencja_project_2.pdb
+C:\Users\uczen\2E MF\Csharp\Rekurencja\Rekurencja_project_2\obj\Debug\net7.0\Rekurencja_project_2.csproj.AssemblyReference.cache
+C:\Users\uczen\2E MF\Csharp\Rekurencja\Rekurencja_project_2\obj\Debug\net7.0\Rekurencja_project_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uczen\2E MF\Csharp\Rekurencja\Rekurencja_project_2\obj\Debug\net7.0\Rekurencja_project_2.AssemblyInfoInputs.cache
+C:\Users\uczen\2E MF\Csharp\Rekurencja\Rekurencja_project_2\obj\Debug\net7.0\Rekurencja_project_2.AssemblyInfo.cs
+C:\Users\uczen\2E MF\Csharp\Rekurencja\Rekurencja_project_2\obj\Debug\net7.0\Rekurencja_project_2.csproj.CoreCompileInputs.cache
+C:\Users\uczen\2E MF\Csharp\Rekurencja\Rekurencja_project_2\obj\Debug\net7.0\Rekurencja_project_2.dll
+C:\Users\uczen\2E MF\Csharp\Rekurencja\Rekurencja_project_2\obj\Debug\net7.0\refint\Rekurencja_project_2.dll
+C:\Users\uczen\2E MF\Csharp\Rekurencja\Rekurencja_project_2\obj\Debug\net7.0\Rekurencja_project_2.pdb
+C:\Users\uczen\2E MF\Csharp\Rekurencja\Rekurencja_project_2\obj\Debug\net7.0\Rekurencja_project_2.genruntimeconfig.cache
+C:\Users\uczen\2E MF\Csharp\Rekurencja\Rekurencja_project_2\obj\Debug\net7.0\ref\Rekurencja_project_2.dll
