@@ -68,11 +68,23 @@ FROM Szkoly
 WHERE Rodzaj_szkoly = "SP" AND Kod_gminy NOT IN 
 (SELECT Kod_gminy FROM Gminy);
 
+########################################
+SELECT Szkoly.Id_szkoly, Szkoly.Rodzaj_szkoly, Szkoly.Kod_gminy
+FROM Szkoly LEFT JOIN Gminy ON Szkoly.Kod_gminy=Gminy.Kod_gminy
+WHERE Gminy.Kod_gminy Is Null And Szkoly.Rodzaj_szkoly='SP';
+
+
 5. Wypisz gminę bez szkół.
 SELECT Gminy.Nazwa_gminy
 FROM Gminy
 WHERE Gminy.Nazwa_gminy NOT IN
 (SELECT Gminy.Nazwa_gminy FROM Gminy INNER JOIN Szkoly ON Gminy.Kod_gminy = Szkoly.Kod_gminy);
+
+########################################
+SELECT Gminy.Nazwa_gminy
+FROM Gminy LEFT JOIN Szkoly ON Gminy.Kod_gminy = Szkoly.Kod_gminy
+WHERE Szkoly.Kod_Gminy IS NULL;
+
 
 6. Wypisz gminy bez techników.
 SELECT Gminy.Nazwa_gminy
@@ -81,10 +93,12 @@ WHERE Gminy.Nazwa_gminy NOT IN
 (SELECT Gminy.Nazwa_gminy 
 FROM Gminy INNER JOIN Szkoly ON Gminy.Kod_gminy = Szkoly.Kod_gminy 
 WHERE Szkoly.Rodzaj_szkoly = "T");
+
 ##########################################
 SELECT Gminy.Nazwa_gminy
 FROM Gminy LEFT JOIN Szkoly ON Gminy.Kod_gminy = Szkoly.Kod_gminy AND Szkoly.Rodzaj_szkoly = "T"
 WHERE Szkoly.Id_szkoly IS NULL;
+
 
 7. Utwórz zestawienie zawierające informacje o liczbie dziewcząt i chłopców (osobno) z poszczególnych rodzajów szkół, którzy podali najwyższą ocenę 5 na pytanie 1.
 SELECT Szkoly.Rodzaj_szkoly, Ankiety.Plec, COUNT(*) AS Ilosc
