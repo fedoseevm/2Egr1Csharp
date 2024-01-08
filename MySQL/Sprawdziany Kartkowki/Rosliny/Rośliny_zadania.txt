@@ -1,0 +1,26 @@
+1. Wypisz wszystkie miasta z tabeli osoby.
+
+2. Wypisz numery zamówień, które dotyczą klientów z Jeleniej Góry
+
+3. Wyszukaj pozycje zamówień, które dotyczą więcej niż 10 sadzonek roślin o kwiatach w kolorze bialo-liliowe.
+
+4. Podaj nazwy roślin, które nie zostały uwzględnione w żadnym zamówieniu.
+
+5. Podaj trzy najbardziej popularne kolory roślin.
+
+6. Oblicz sumę objętości wszystkich doniczek roślin w cenie do 5 zł włącznie.
+
+7. Podaj 3 najpopularniejsze imiona osób.
+
+8. Wypisz unikalne imiona, czyli takie, które występuja na liście dokładnie 1 raz.
+
+9. Utwórz zestawienie, w którym podasz liczbę pozycji złożonych przez osoby z poszczególnych miast zamówień 
+na rośliny kwitnące dokładnie w okresie VII–VIII.
+
+10. Na zakończenie dnia sklep przygotowywał dla każdego klienta specyfikację zamówionego 
+w ciągu całego dnia towaru i na tej podstawie sporządzał fakturę, która była dołączana do 
+wysyłki (kumulowanie zakupów od jednego klienta zmniejsza liczbę przesyłek kurierskich). 
+To oznacza, że na jednej fakturze były umieszczane pozycje z zamówień złożonych tego samego dnia. 
+Wartość faktury to suma wartości zakupionych towarów.
+Oblicz, ile faktur wystawił sklep ogrodniczy, oraz podaj najwyższą wartość wystawionej faktury. 
+Podaj też, ilu klientom wystawiono więcej niż jedną fakturę. 

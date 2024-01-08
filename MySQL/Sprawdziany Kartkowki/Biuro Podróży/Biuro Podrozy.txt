@@ -1,0 +1,24 @@
+Z plików:
+osoby.txt
+wycieczki.txt
+rezerwacje.txt
+
+Utwórz bazê danych o nazwie Biuro Podrozy. 
+Zwróæ uwagê na import pola daty.
+
+Wykonaj nastêpuj¹ce kwerendy:
+
+1. Wyœwietl wszystkich Mateuszów.
+2. Wyœwietl wszystkie osoby, których imiê zawiera przyjamniej jedno "r" oraz nazwisko na "z".
+3. Wyœwietl wszystkie wycieczki do Hiszpani z Gdañska.
+4. Drogie te wycieczki? Jaka jest œrednia cena wycieczki?
+5. Ile osób ³¹cznie zarezerwowa³o wycieczki (doroœli i dzieci)?
+6. Wyswietl wszystkie rezerwacje (kraj, miejsce i cena) osoby Ewelina Lagun.
+7. Stórz zestawienie iloœci wycieczek z podzia³em na kraje. Posortuj zestawienie malej¹co.
+8. Wybierz 3 kraje, gdzie zabierano jak najmniej kalafiorów. Posortuj malej¹co po iloœci. 
+
+11. Wyœwietl najd³u¿sz¹ (najd³u¿ej trwaj¹c¹) wycieczkê.
+12. Wyœwietl wycieczki na które nie by³o ¿adnej rezerwacji.
+13. W którym miesi¹cu by³o najwiêcej przylotów z wycieczek?
+
+kalafior - potocznie dziecko

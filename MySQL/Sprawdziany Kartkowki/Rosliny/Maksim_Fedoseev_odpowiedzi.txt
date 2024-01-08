@@ -1,0 +1,50 @@
+# Zadanie 1
+SELECT Miasto FROM osoby
+GROUP BY Miasto;
+
+# Zadanie 2
+SELECT Lp FROM zamowienia INNER JOIN osoby ON zamowienia.Id_klienta=osoby.Id_klienta
+WHERE osoby.Miasto LIKE "Jelenia Gora";
+
+# Zadanie 3
+SELECT Lp FROM zamowienia INNER JOIN rosliny ON zamowienia.Id_rosliny=rosliny.Id_rosliny
+WHERE zamowienia.Liczba_sadzonek > 10 AND rosliny.Kolor_kwiatow LIKE "bialo-liliowe";
+
+# Zadanie 4
+SELECT rosliny.Nazwa FROM rosliny LEFT JOIN zamowienia ON rosliny.Id_rosliny=zamowienia.Id_rosliny
+WHERE zamowienia.Liczba_sadzonek IS NULL;
+
+# Zadanie 5
+SELECT Kolor_kwiatow, COUNT(Id_rosliny) FROM rosliny
+GROUP BY Kolor_kwiatow
+ORDER BY COUNT(Id_rosliny) DESC
+LIMIT 3;
+
+# Zadanie 6
+
+
+# Zadanie 7
+SELECT Imie FROM osoby
+GROUP BY Imie
+ORDER BY COUNT(Id_klienta) DESC
+LIMIT 3;
+
+# Zadanie 8
+SELECT Imie FROM osoby
+GROUP BY Imie
+HAVING COUNT(Id_klienta) = 1;
+
+# Zadanie 9
+SELECT osoby.Miasto, COUNT(zamowienia.Lp) as LiczbaPozycji
+FROM zamowienia INNER JOIN osoby ON zamowienia.Id_klienta=osoby.Id_klienta INNER JOIN rosliny ON zamowienia.Id_rosliny=rosliny.Id_rosliny
+WHERE rosliny.Okres_kwitnienia LIKE "VII-VIII"
+GROUP BY osoby.Miasto;
+
+# Zadanie 10
+SELECT (SELECT SUM(rosliny.Cena) AS WartoscFaktury
+FROM zamowienia INNER JOIN rosliny ON zamowienia.Id_rosliny=rosliny.Id_rosliny
+GROUP BY zamowienia.Data
+ORDER BY SUM(rosliny.Cena) DESC
+LIMIT 1) as MaxWartoscFaktury 
+FROM zamowienia INNER JOIN osoby ON zamowienia.Id_klienta=osoby.Id_klienta
+GROUP BY MaxwartoscFaktury;
