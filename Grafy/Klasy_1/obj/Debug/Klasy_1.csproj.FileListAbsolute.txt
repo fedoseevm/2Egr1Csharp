@@ -1,0 +1,11 @@
+C:\Users\uczen\2E MF\Csharp\Klasy\Klasy_1\obj\Debug\Klasy_1.csproj.AssemblyReference.cache
+C:\Users\uczen\2E MF\Csharp\Klasy\Klasy_1\obj\Debug\Klasy_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\uczen\2E MF\Csharp\Klasy\Klasy_1\obj\Debug\Klasy_1.csproj.CoreCompileInputs.cache
+C:\Users\uczen\2E MF\Csharp\Grafy\Klasy_1\bin\Debug\Klasy_1.exe.config
+C:\Users\uczen\2E MF\Csharp\Grafy\Klasy_1\bin\Debug\Klasy_1.exe
+C:\Users\uczen\2E MF\Csharp\Grafy\Klasy_1\bin\Debug\Klasy_1.pdb
+C:\Users\uczen\2E MF\Csharp\Grafy\Klasy_1\obj\Debug\Klasy_1.csproj.AssemblyReference.cache
+C:\Users\uczen\2E MF\Csharp\Grafy\Klasy_1\obj\Debug\Klasy_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\uczen\2E MF\Csharp\Grafy\Klasy_1\obj\Debug\Klasy_1.csproj.CoreCompileInputs.cache
+C:\Users\uczen\2E MF\Csharp\Grafy\Klasy_1\obj\Debug\Klasy_1.exe
+C:\Users\uczen\2E MF\Csharp\Grafy\Klasy_1\obj\Debug\Klasy_1.pdb
