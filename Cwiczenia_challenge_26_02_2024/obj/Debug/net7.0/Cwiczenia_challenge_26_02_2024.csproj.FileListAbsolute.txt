@@ -1,0 +1,15 @@
+C:\Users\uczen\2E MF\Csharp\Cwiczenia_challenge_26_02_2024\bin\Debug\net7.0\Cwiczenia_challenge_26_02_2024.exe
+C:\Users\uczen\2E MF\Csharp\Cwiczenia_challenge_26_02_2024\bin\Debug\net7.0\Cwiczenia_challenge_26_02_2024.deps.json
+C:\Users\uczen\2E MF\Csharp\Cwiczenia_challenge_26_02_2024\bin\Debug\net7.0\Cwiczenia_challenge_26_02_2024.runtimeconfig.json
+C:\Users\uczen\2E MF\Csharp\Cwiczenia_challenge_26_02_2024\bin\Debug\net7.0\Cwiczenia_challenge_26_02_2024.dll
+C:\Users\uczen\2E MF\Csharp\Cwiczenia_challenge_26_02_2024\bin\Debug\net7.0\Cwiczenia_challenge_26_02_2024.pdb
+C:\Users\uczen\2E MF\Csharp\Cwiczenia_challenge_26_02_2024\obj\Debug\net7.0\Cwiczenia_challenge_26_02_2024.csproj.AssemblyReference.cache
+C:\Users\uczen\2E MF\Csharp\Cwiczenia_challenge_26_02_2024\obj\Debug\net7.0\Cwiczenia_challenge_26_02_2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uczen\2E MF\Csharp\Cwiczenia_challenge_26_02_2024\obj\Debug\net7.0\Cwiczenia_challenge_26_02_2024.AssemblyInfoInputs.cache
+C:\Users\uczen\2E MF\Csharp\Cwiczenia_challenge_26_02_2024\obj\Debug\net7.0\Cwiczenia_challenge_26_02_2024.AssemblyInfo.cs
+C:\Users\uczen\2E MF\Csharp\Cwiczenia_challenge_26_02_2024\obj\Debug\net7.0\Cwiczenia_challenge_26_02_2024.csproj.CoreCompileInputs.cache
+C:\Users\uczen\2E MF\Csharp\Cwiczenia_challenge_26_02_2024\obj\Debug\net7.0\Cwiczenia_challenge_26_02_2024.dll
+C:\Users\uczen\2E MF\Csharp\Cwiczenia_challenge_26_02_2024\obj\Debug\net7.0\refint\Cwiczenia_challenge_26_02_2024.dll
+C:\Users\uczen\2E MF\Csharp\Cwiczenia_challenge_26_02_2024\obj\Debug\net7.0\Cwiczenia_challenge_26_02_2024.pdb
+C:\Users\uczen\2E MF\Csharp\Cwiczenia_challenge_26_02_2024\obj\Debug\net7.0\Cwiczenia_challenge_26_02_2024.genruntimeconfig.cache
+C:\Users\uczen\2E MF\Csharp\Cwiczenia_challenge_26_02_2024\obj\Debug\net7.0\ref\Cwiczenia_challenge_26_02_2024.dll
