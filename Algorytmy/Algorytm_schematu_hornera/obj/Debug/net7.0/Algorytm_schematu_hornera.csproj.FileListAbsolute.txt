@@ -1,0 +1,15 @@
+C:\Users\uczen\2E MF\Csharp\Algorytm_schematu_hornera\bin\Debug\net7.0\Algorytm_schematu_hornera.exe
+C:\Users\uczen\2E MF\Csharp\Algorytm_schematu_hornera\bin\Debug\net7.0\Algorytm_schematu_hornera.deps.json
+C:\Users\uczen\2E MF\Csharp\Algorytm_schematu_hornera\bin\Debug\net7.0\Algorytm_schematu_hornera.runtimeconfig.json
+C:\Users\uczen\2E MF\Csharp\Algorytm_schematu_hornera\bin\Debug\net7.0\Algorytm_schematu_hornera.dll
+C:\Users\uczen\2E MF\Csharp\Algorytm_schematu_hornera\bin\Debug\net7.0\Algorytm_schematu_hornera.pdb
+C:\Users\uczen\2E MF\Csharp\Algorytm_schematu_hornera\obj\Debug\net7.0\Algorytm_schematu_hornera.csproj.AssemblyReference.cache
+C:\Users\uczen\2E MF\Csharp\Algorytm_schematu_hornera\obj\Debug\net7.0\Algorytm_schematu_hornera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uczen\2E MF\Csharp\Algorytm_schematu_hornera\obj\Debug\net7.0\Algorytm_schematu_hornera.AssemblyInfoInputs.cache
+C:\Users\uczen\2E MF\Csharp\Algorytm_schematu_hornera\obj\Debug\net7.0\Algorytm_schematu_hornera.AssemblyInfo.cs
+C:\Users\uczen\2E MF\Csharp\Algorytm_schematu_hornera\obj\Debug\net7.0\Algorytm_schematu_hornera.csproj.CoreCompileInputs.cache
+C:\Users\uczen\2E MF\Csharp\Algorytm_schematu_hornera\obj\Debug\net7.0\Algorytm_schematu_hornera.dll
+C:\Users\uczen\2E MF\Csharp\Algorytm_schematu_hornera\obj\Debug\net7.0\refint\Algorytm_schematu_hornera.dll
+C:\Users\uczen\2E MF\Csharp\Algorytm_schematu_hornera\obj\Debug\net7.0\Algorytm_schematu_hornera.pdb
+C:\Users\uczen\2E MF\Csharp\Algorytm_schematu_hornera\obj\Debug\net7.0\Algorytm_schematu_hornera.genruntimeconfig.cache
+C:\Users\uczen\2E MF\Csharp\Algorytm_schematu_hornera\obj\Debug\net7.0\ref\Algorytm_schematu_hornera.dll
