@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\uczen\\2E MF\\Csharp\\Cwiczenia_challenge_26_02_2024\\Cwiczenia_challenge_26_02_2024.csproj",
+      "projectUniqueName": "C:\\Users\\uczen\\2E MF\\2Egr1Csharp\\Cwiczenia_challenge_26_02_2024\\Cwiczenia_challenge_26_02_2024.csproj",
       "projectName": "Cwiczenia_challenge_26_02_2024",
-      "projectPath": "C:\\Users\\uczen\\2E MF\\Csharp\\Cwiczenia_challenge_26_02_2024\\Cwiczenia_challenge_26_02_2024.csproj",
+      "projectPath": "C:\\Users\\uczen\\2E MF\\2Egr1Csharp\\Cwiczenia_challenge_26_02_2024\\Cwiczenia_challenge_26_02_2024.csproj",
       "packagesPath": "C:\\Users\\uczen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\uczen\\2E MF\\Csharp\\Cwiczenia_challenge_26_02_2024\\obj\\",
+      "outputPath": "C:\\Users\\uczen\\2E MF\\2Egr1Csharp\\Cwiczenia_challenge_26_02_2024\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\uczen\\AppData\\Roaming\\NuGet\\NuGet.Config",

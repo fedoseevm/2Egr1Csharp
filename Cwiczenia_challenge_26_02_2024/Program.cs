@@ -4,6 +4,7 @@
 // Zadanie 1
 // Stworz tablice 115 pierwszych liczb, ktore w reprezentacji binarner koncza sie na dwie 1
 // 11, 111, 1011, 101011 ...
+Console.WriteLine("Zadanie 1");
 int[] Tablica11 = new int[115];
 Tablica11[0] = 3;
 for (int i = 1; i < Tablica11.Length; i++)
@@ -22,6 +23,7 @@ Console.WriteLine("\n");
 // Krystyna, Zrybnika, 27
 // i wstawic obiekty (struktury) typu osoba z wlasciwosciami / polami z pliku, czyli imie, nazwisko, wiek
 
+Console.WriteLine("Zadanie 2");
 // STRUKTURA
 Osoba[] os = new Osoba[5];
 
@@ -49,6 +51,7 @@ Console.WriteLine("\n");
 
 // Zadanie 3
 // Stworz liste 6 losowych 3-znakowych slow skladajacych sie z roznych samoglosek
+Console.WriteLine("Zadanie 3");
 Random r = new Random();
 List<string> Slowa = new List<string>();
 char[] Samogloski = new char[] { 'a', 'ą', 'e', 'ę', 'i', 'o', 'ó', 'u', 'y' };
@@ -99,40 +102,109 @@ Console.WriteLine("\n");
 
 //using System.Collections;
 // Random r = new Random();
-List<int> Fib = new List<int>() { 1, 2 };
-//Fib.Add(1);
-//Fib.Add(2);
+Console.WriteLine("Zadanie 4");
+List<int> Fib = new List<int>() { 0, 1 };
 
 int x = 2;
-while ((Fib[x - 1] + Fib[x - 2]) < 100)
+while ((Fib[x - 1] + Fib[x - 2]) < 100) // Wypelnienie listy ciagiem Fibonacciego
 {
-    Fib[x] = Fib[x - 1] + Fib[x - 2];
+    Fib.Add(Fib[x - 1] + Fib[x - 2]);
     x++;
 }
 
-// Dokonczyc
-Queue q = new Queue();
-for (int j = 0; j < 4; j++)
+Queue q = new Queue();  // Tworzenie kolejki Queue
+for (int j = 0; j < 5; j++)
 {
-    q.Enqueue(Fib.ElementAt(r.Next(0, Fib.Count()))); 
+    q.Enqueue(Fib.ElementAt(r.Next(0, Fib.Count()))); // Dokladanie nowych elementow na koniec kolejki
 }
+Console.WriteLine("Perwsza kolejka:");  // Wypisywanie elementow kolejki
 foreach (var item in q)
 {
-    Console.WriteLine(item);
+    Console.Write(item + " ");
 }
-Console.WriteLine();
+Console.WriteLine("\n");
+q.Dequeue(); // Usuwa pierwszy element kolejki
 q.Dequeue();
-q.Dequeue();
+
+Console.WriteLine("Druga kolejka po usunieciu 2 elementow:");
 foreach (var item in q)
 {
-    Console.WriteLine(item);
+    Console.Write(item + " ");
 }
 
 
 // Zadanie 5 STOS
-// Stworz stos 5 kolejnych dwucyfrowych liczb pierwszych.
+// Stworz stos 5 najwiekszych trzycyfrowych liczb pierwszych.
 // Wyswietl stos, usun 3 wyrazy i zwow wyswietl stos.
 
+Console.WriteLine("\n\nZadanie 5");
+bool ifPrime(int x)
+{
+    for (int i = 2; i < Math.Sqrt(x) + 1; i++)
+        if (x % i == 0)
+            return false;
+    return true;
+}
+
+List<int> PrimeNumbers = new List<int>();
+for (int i = 999; PrimeNumbers.Count < 10; i -= 2)  // Wypelnienie listy PrimeNumbers liczbami perwszymi dwucyfrowymi
+{
+    if (ifPrime(i))
+        PrimeNumbers.Add(i);
+    //if (PrimeNumbers.Count == 10)     // Jesli nie wiadomo, czy bedzie wystarzajaco elementow dodano do listy PrimeNumbers (musi buc 10)
+    //    break;
+}
+
+Stack stos = new Stack();   // LIFO - Last In First Out 
+//stos.Push();  - dodanie elementa do stosu
+//stos.Pop();   - usuwanie ostatniego elementu ze stosu
+foreach (var item in PrimeNumbers)
+{
+    Console.Write(item + " ");
+    stos.Push(item);
+}
+Console.WriteLine("\n");
+foreach (var item in stos) // Wypisywanie stosu. UWAGA: wypisuje elementy w przeciwna strone.
+{
+    Console.Write(item + " ");
+}
+
+// Zadanie 6
+// Slowniki
+// Stworz prosty graf 1 => 2, 3; 2 => 3; 3 => 1, 2, 5; 4 => null; 5 => 3
+Console.WriteLine("\n\nZadanie 6");
+Dictionary<int, List<int>> D = new Dictionary<int, List<int>>();
+
+Console.Write("Ilosc wierzcholkow: ");
+int vertNumber = int.Parse(Console.ReadLine());
+
+for (int i = 1; i < vertNumber + 1; i++)
+{
+    D.Add(i, new List<int>());
+}
+
+Console.Write("Ilosc par: ");
+int pairNumber = int.Parse(Console.ReadLine());
+string[] Liczby;
+int a, b;
+for (int i = 0; i < pairNumber; i++)
+{
+    Liczby = Console.ReadLine().Split();
+    a = int.Parse(Liczby[0]);
+    b = int.Parse(Liczby[1]);
+    D[a].Add(b);
+    D[b].Add(a);
+}
+Console.WriteLine("\n");
+
+Console.WriteLine($"Graf z {vertNumber} wierzcholkow i {pairNumber} polaczen: ");
+foreach (KeyValuePair<int, List<int>> item in D)
+{
+    Console.Write(item.Key + ": ");
+    foreach (var value in item.Value)
+        Console.Write(value + " ");
+    Console.WriteLine();
+}
 
 
 struct Osoba
