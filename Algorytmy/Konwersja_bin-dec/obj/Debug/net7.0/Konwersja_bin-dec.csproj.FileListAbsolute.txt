@@ -1,0 +1,15 @@
+C:\Users\uczen\2E MF\Do przemieszczenia\Konwersja_bin-dec\bin\Debug\net7.0\Konwersja_bin-dec.exe
+C:\Users\uczen\2E MF\Do przemieszczenia\Konwersja_bin-dec\bin\Debug\net7.0\Konwersja_bin-dec.deps.json
+C:\Users\uczen\2E MF\Do przemieszczenia\Konwersja_bin-dec\bin\Debug\net7.0\Konwersja_bin-dec.runtimeconfig.json
+C:\Users\uczen\2E MF\Do przemieszczenia\Konwersja_bin-dec\bin\Debug\net7.0\Konwersja_bin-dec.dll
+C:\Users\uczen\2E MF\Do przemieszczenia\Konwersja_bin-dec\bin\Debug\net7.0\Konwersja_bin-dec.pdb
+C:\Users\uczen\2E MF\Do przemieszczenia\Konwersja_bin-dec\obj\Debug\net7.0\Konwersja_bin-dec.csproj.AssemblyReference.cache
+C:\Users\uczen\2E MF\Do przemieszczenia\Konwersja_bin-dec\obj\Debug\net7.0\Konwersja_bin-dec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uczen\2E MF\Do przemieszczenia\Konwersja_bin-dec\obj\Debug\net7.0\Konwersja_bin-dec.AssemblyInfoInputs.cache
+C:\Users\uczen\2E MF\Do przemieszczenia\Konwersja_bin-dec\obj\Debug\net7.0\Konwersja_bin-dec.AssemblyInfo.cs
+C:\Users\uczen\2E MF\Do przemieszczenia\Konwersja_bin-dec\obj\Debug\net7.0\Konwersja_bin-dec.csproj.CoreCompileInputs.cache
+C:\Users\uczen\2E MF\Do przemieszczenia\Konwersja_bin-dec\obj\Debug\net7.0\Konwersja_bin-dec.dll
+C:\Users\uczen\2E MF\Do przemieszczenia\Konwersja_bin-dec\obj\Debug\net7.0\refint\Konwersja_bin-dec.dll
+C:\Users\uczen\2E MF\Do przemieszczenia\Konwersja_bin-dec\obj\Debug\net7.0\Konwersja_bin-dec.pdb
+C:\Users\uczen\2E MF\Do przemieszczenia\Konwersja_bin-dec\obj\Debug\net7.0\Konwersja_bin-dec.genruntimeconfig.cache
+C:\Users\uczen\2E MF\Do przemieszczenia\Konwersja_bin-dec\obj\Debug\net7.0\ref\Konwersja_bin-dec.dll

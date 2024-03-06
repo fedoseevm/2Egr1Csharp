@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\uczen\\2E MF\\Csharp\\Algorytm_schematu_hornera\\Algorytm_schematu_hornera.csproj": {}
+    "C:\\Users\\uczen\\2E MF\\2Egr1Csharp\\Algorytmy\\Algorytm_schematu_hornera\\Algorytm_schematu_hornera.csproj": {}
   },
   "projects": {
-    "C:\\Users\\uczen\\2E MF\\Csharp\\Algorytm_schematu_hornera\\Algorytm_schematu_hornera.csproj": {
+    "C:\\Users\\uczen\\2E MF\\2Egr1Csharp\\Algorytmy\\Algorytm_schematu_hornera\\Algorytm_schematu_hornera.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\uczen\\2E MF\\Csharp\\Algorytm_schematu_hornera\\Algorytm_schematu_hornera.csproj",
+        "projectUniqueName": "C:\\Users\\uczen\\2E MF\\2Egr1Csharp\\Algorytmy\\Algorytm_schematu_hornera\\Algorytm_schematu_hornera.csproj",
         "projectName": "Algorytm_schematu_hornera",
-        "projectPath": "C:\\Users\\uczen\\2E MF\\Csharp\\Algorytm_schematu_hornera\\Algorytm_schematu_hornera.csproj",
+        "projectPath": "C:\\Users\\uczen\\2E MF\\2Egr1Csharp\\Algorytmy\\Algorytm_schematu_hornera\\Algorytm_schematu_hornera.csproj",
         "packagesPath": "C:\\Users\\uczen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\uczen\\2E MF\\Csharp\\Algorytm_schematu_hornera\\obj\\",
+        "outputPath": "C:\\Users\\uczen\\2E MF\\2Egr1Csharp\\Algorytmy\\Algorytm_schematu_hornera\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\uczen\\AppData\\Roaming\\NuGet\\NuGet.Config",
