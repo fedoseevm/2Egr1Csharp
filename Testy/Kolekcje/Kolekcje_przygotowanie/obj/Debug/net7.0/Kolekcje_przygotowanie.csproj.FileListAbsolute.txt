@@ -1,0 +1,15 @@
+C:\Users\uczen\2E MF\Do przemieszczenia\Kolekcje_przygotowanie\bin\Debug\net7.0\Kolekcje_przygotowanie.exe
+C:\Users\uczen\2E MF\Do przemieszczenia\Kolekcje_przygotowanie\bin\Debug\net7.0\Kolekcje_przygotowanie.deps.json
+C:\Users\uczen\2E MF\Do przemieszczenia\Kolekcje_przygotowanie\bin\Debug\net7.0\Kolekcje_przygotowanie.runtimeconfig.json
+C:\Users\uczen\2E MF\Do przemieszczenia\Kolekcje_przygotowanie\bin\Debug\net7.0\Kolekcje_przygotowanie.dll
+C:\Users\uczen\2E MF\Do przemieszczenia\Kolekcje_przygotowanie\bin\Debug\net7.0\Kolekcje_przygotowanie.pdb
+C:\Users\uczen\2E MF\Do przemieszczenia\Kolekcje_przygotowanie\obj\Debug\net7.0\Kolekcje_przygotowanie.csproj.AssemblyReference.cache
+C:\Users\uczen\2E MF\Do przemieszczenia\Kolekcje_przygotowanie\obj\Debug\net7.0\Kolekcje_przygotowanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uczen\2E MF\Do przemieszczenia\Kolekcje_przygotowanie\obj\Debug\net7.0\Kolekcje_przygotowanie.AssemblyInfoInputs.cache
+C:\Users\uczen\2E MF\Do przemieszczenia\Kolekcje_przygotowanie\obj\Debug\net7.0\Kolekcje_przygotowanie.AssemblyInfo.cs
+C:\Users\uczen\2E MF\Do przemieszczenia\Kolekcje_przygotowanie\obj\Debug\net7.0\Kolekcje_przygotowanie.csproj.CoreCompileInputs.cache
+C:\Users\uczen\2E MF\Do przemieszczenia\Kolekcje_przygotowanie\obj\Debug\net7.0\Kolekcje_przygotowanie.dll
+C:\Users\uczen\2E MF\Do przemieszczenia\Kolekcje_przygotowanie\obj\Debug\net7.0\refint\Kolekcje_przygotowanie.dll
+C:\Users\uczen\2E MF\Do przemieszczenia\Kolekcje_przygotowanie\obj\Debug\net7.0\Kolekcje_przygotowanie.pdb
+C:\Users\uczen\2E MF\Do przemieszczenia\Kolekcje_przygotowanie\obj\Debug\net7.0\Kolekcje_przygotowanie.genruntimeconfig.cache
+C:\Users\uczen\2E MF\Do przemieszczenia\Kolekcje_przygotowanie\obj\Debug\net7.0\ref\Kolekcje_przygotowanie.dll
