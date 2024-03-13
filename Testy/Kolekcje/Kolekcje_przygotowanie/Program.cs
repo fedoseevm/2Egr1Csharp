@@ -15,23 +15,31 @@
                 Console.WriteLine("Zadanie 1");
                 Console.Write("Ilosc liczb: ");
                 int n = int.Parse(Console.ReadLine());
-                int[] Insert = new int[n];
+                int[] InsTable = new int[n];
                 for (int i = 0; i < n; i++)
                 {
-                    Insert[i] = int.Parse(Console.ReadLine());
+                    InsTable[i] = int.Parse(Console.ReadLine());
                 }
                 int[] Table1 = new int[n];
                 int k = 0;
-                for (int i = Insert.Min(); i <= Insert.Max(); i++) // Wpisywanie podanych liczb w sposob rosnacy do Table1
+                for (int i = InsTable.Min(); i <= InsTable.Max(); i++) // Wpisywanie podanych liczb w sposob rosnacy do Table1
                 {
-                    if (Insert.Contains(i))
+                    if (InsTable.Contains(i))
                     {
                         Table1[k] = i;
                         k++;
                     }
                 }
-                foreach (int i in Table1)
+                foreach (int i in Table1)   // Wypisywanie posortowanej tablicy
                     Console.Write(i + " ");
+
+                for (int i = 0; i < Table1.Length; i++)
+                {
+                    for (int j = -2; j <= 2; j++)
+                    {
+
+                    }
+                }
             }
             zadanie1();
 
