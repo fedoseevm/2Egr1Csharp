@@ -33,11 +33,15 @@
                 foreach (int i in Table1)   // Wypisywanie posortowanej tablicy
                     Console.Write(i + " ");
 
+                List<int> Portugalskie = new List<int>();
                 for (int i = 0; i < Table1.Length; i++)
                 {
                     for (int j = -2; j <= 2; j++)
                     {
-
+                        if (Table1.Contains(Table1[i] + j) && Table1[i] + j != Table1[i])
+                        {
+                            Portugalskie.Add(Table1[i]);    // ???
+                        }
                     }
                 }
             }

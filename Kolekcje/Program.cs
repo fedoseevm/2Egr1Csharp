@@ -178,7 +178,7 @@ Dictionary<int, List<int>> D = new Dictionary<int, List<int>>();
 Console.Write("Ilosc wierzcholkow: ");
 int vertNumber = int.Parse(Console.ReadLine());
 
-for (int i = 1; i < vertNumber + 1; i++)
+for (int i = 1; i <= vertNumber; i++)
 {
     D.Add(i, new List<int>());
 }

@@ -1,0 +1,15 @@
+C:\Users\uczen\2E MF\Do przemieszczenia\Kolekcje_przygotowanie_S2\bin\Debug\net7.0\Kolekcje_przygotowanie_S2.exe
+C:\Users\uczen\2E MF\Do przemieszczenia\Kolekcje_przygotowanie_S2\bin\Debug\net7.0\Kolekcje_przygotowanie_S2.deps.json
+C:\Users\uczen\2E MF\Do przemieszczenia\Kolekcje_przygotowanie_S2\bin\Debug\net7.0\Kolekcje_przygotowanie_S2.runtimeconfig.json
+C:\Users\uczen\2E MF\Do przemieszczenia\Kolekcje_przygotowanie_S2\bin\Debug\net7.0\Kolekcje_przygotowanie_S2.dll
+C:\Users\uczen\2E MF\Do przemieszczenia\Kolekcje_przygotowanie_S2\bin\Debug\net7.0\Kolekcje_przygotowanie_S2.pdb
+C:\Users\uczen\2E MF\Do przemieszczenia\Kolekcje_przygotowanie_S2\obj\Debug\net7.0\Kolekcje_przygotowanie_S2.csproj.AssemblyReference.cache
+C:\Users\uczen\2E MF\Do przemieszczenia\Kolekcje_przygotowanie_S2\obj\Debug\net7.0\Kolekcje_przygotowanie_S2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uczen\2E MF\Do przemieszczenia\Kolekcje_przygotowanie_S2\obj\Debug\net7.0\Kolekcje_przygotowanie_S2.AssemblyInfoInputs.cache
+C:\Users\uczen\2E MF\Do przemieszczenia\Kolekcje_przygotowanie_S2\obj\Debug\net7.0\Kolekcje_przygotowanie_S2.AssemblyInfo.cs
+C:\Users\uczen\2E MF\Do przemieszczenia\Kolekcje_przygotowanie_S2\obj\Debug\net7.0\Kolekcje_przygotowanie_S2.csproj.CoreCompileInputs.cache
+C:\Users\uczen\2E MF\Do przemieszczenia\Kolekcje_przygotowanie_S2\obj\Debug\net7.0\Kolekcje_przygotowanie_S2.dll
+C:\Users\uczen\2E MF\Do przemieszczenia\Kolekcje_przygotowanie_S2\obj\Debug\net7.0\refint\Kolekcje_przygotowanie_S2.dll
+C:\Users\uczen\2E MF\Do przemieszczenia\Kolekcje_przygotowanie_S2\obj\Debug\net7.0\Kolekcje_przygotowanie_S2.pdb
+C:\Users\uczen\2E MF\Do przemieszczenia\Kolekcje_przygotowanie_S2\obj\Debug\net7.0\Kolekcje_przygotowanie_S2.genruntimeconfig.cache
+C:\Users\uczen\2E MF\Do przemieszczenia\Kolekcje_przygotowanie_S2\obj\Debug\net7.0\ref\Kolekcje_przygotowanie_S2.dll
