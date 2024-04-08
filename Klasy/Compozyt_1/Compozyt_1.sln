@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compozyt_1", "Compozyt_1.csproj", "{ECF5BB28-919A-4E12-9047-325D12E6D962}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECF5BB28-919A-4E12-9047-325D12E6D962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF5BB28-919A-4E12-9047-325D12E6D962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF5BB28-919A-4E12-9047-325D12E6D962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF5BB28-919A-4E12-9047-325D12E6D962}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1402C8A5-BB93-4A7D-A72F-DB8D586F2F7B}
+	EndGlobalSection
+EndGlobal

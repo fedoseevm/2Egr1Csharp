@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\uczen\\2E MF\\Do przemieszczenia\\Konwersja_bin-dec\\Konwersja_bin-dec.csproj",
+      "projectUniqueName": "C:\\Users\\uczen\\2E MF\\2Egr1Csharp\\Algorytmy\\Konwersja_bin-dec\\Konwersja_bin-dec.csproj",
       "projectName": "Konwersja_bin-dec",
-      "projectPath": "C:\\Users\\uczen\\2E MF\\Do przemieszczenia\\Konwersja_bin-dec\\Konwersja_bin-dec.csproj",
+      "projectPath": "C:\\Users\\uczen\\2E MF\\2Egr1Csharp\\Algorytmy\\Konwersja_bin-dec\\Konwersja_bin-dec.csproj",
       "packagesPath": "C:\\Users\\uczen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\uczen\\2E MF\\Do przemieszczenia\\Konwersja_bin-dec\\obj\\",
+      "outputPath": "C:\\Users\\uczen\\2E MF\\2Egr1Csharp\\Algorytmy\\Konwersja_bin-dec\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\uczen\\AppData\\Roaming\\NuGet\\NuGet.Config",
