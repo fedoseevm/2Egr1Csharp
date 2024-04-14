@@ -167,11 +167,11 @@ namespace Kolekcje_przygotowanie_S2
                     G[a].Add(b);
                     G[b].Add(a);
                 }
-
+                Console.Write("Wierzchołki nie mające żadnych sąsiadów: ");
                 foreach (var index in G.Keys)
                 {
                     if (G[index].Count == 0)
-                        Console.WriteLine("Wierzchołki nie mające żadnych sąsiadów: {0}", index);
+                        Console.Write(index + " ");
                 }
             }
             zadanie5();
