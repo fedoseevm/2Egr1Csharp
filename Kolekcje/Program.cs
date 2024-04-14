@@ -2,8 +2,8 @@
 
 
 // Zadanie 1
-// Stworz tablice 115 pierwszych liczb, ktore w reprezentacji binarner koncza sie na dwie 1
-// 11, 111, 1011, 101011 ...
+// Stworz tablice 115 pierwszych liczb, ktore w reprezentacji binarnej koncza sie na dwie 1
+// 11, 111, 1011, 1111, 10011, 101011 ...
 Console.WriteLine("Zadanie 1");
 int[] Tablica11 = new int[115];
 Tablica11[0] = 3;
@@ -96,7 +96,7 @@ foreach (var item in Slowa)
 }
 Console.WriteLine("\n");
 
-// Zadanie 4 KOLEKLA
+// Zadanie 4 QUEUE - kolejka
 // Stworz kolejke 4 losowych liczb fibonacciego (moga sie powtarzac).
 // Wyswietl kolejke, Usun z niej 2 elementy i wyswietl pozostale 2.
 
@@ -133,7 +133,7 @@ foreach (var item in q)
 }
 
 
-// Zadanie 5 STOS
+// Zadanie 5 STACK Stos
 // Stworz stos 5 najwiekszych trzycyfrowych liczb pierwszych.
 // Wyswietl stos, usun 3 wyrazy i zwow wyswietl stos.
 
@@ -151,7 +151,8 @@ for (int i = 999; PrimeNumbers.Count < 10; i -= 2)  // Wypelnienie listy PrimeNu
 {
     if (ifPrime(i))
         PrimeNumbers.Add(i);
-    //if (PrimeNumbers.Count == 10)     // Jesli nie wiadomo, czy bedzie wystarzajaco elementow dodano do listy PrimeNumbers (musi buc 10)
+    // Jesli nie wiadomo, czy bedzie wystarzajaco elementow dodano do listy PrimeNumbers (musi buc 10)
+    //if (PrimeNumbers.Count == 10) 
     //    break;
 }
 

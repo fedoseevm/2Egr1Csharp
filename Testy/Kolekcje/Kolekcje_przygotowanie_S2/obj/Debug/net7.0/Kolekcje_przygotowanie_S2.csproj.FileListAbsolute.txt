@@ -13,3 +13,18 @@ C:\Users\uczen\2E MF\Do przemieszczenia\Kolekcje_przygotowanie_S2\obj\Debug\net7
 C:\Users\uczen\2E MF\Do przemieszczenia\Kolekcje_przygotowanie_S2\obj\Debug\net7.0\Kolekcje_przygotowanie_S2.pdb
 C:\Users\uczen\2E MF\Do przemieszczenia\Kolekcje_przygotowanie_S2\obj\Debug\net7.0\Kolekcje_przygotowanie_S2.genruntimeconfig.cache
 C:\Users\uczen\2E MF\Do przemieszczenia\Kolekcje_przygotowanie_S2\obj\Debug\net7.0\ref\Kolekcje_przygotowanie_S2.dll
+D:\GitHub reps\2Egr1Csharp\Testy\Kolekcje\Kolekcje_przygotowanie_S2\bin\Debug\net7.0\Kolekcje_przygotowanie_S2.exe
+D:\GitHub reps\2Egr1Csharp\Testy\Kolekcje\Kolekcje_przygotowanie_S2\bin\Debug\net7.0\Kolekcje_przygotowanie_S2.deps.json
+D:\GitHub reps\2Egr1Csharp\Testy\Kolekcje\Kolekcje_przygotowanie_S2\bin\Debug\net7.0\Kolekcje_przygotowanie_S2.runtimeconfig.json
+D:\GitHub reps\2Egr1Csharp\Testy\Kolekcje\Kolekcje_przygotowanie_S2\bin\Debug\net7.0\Kolekcje_przygotowanie_S2.dll
+D:\GitHub reps\2Egr1Csharp\Testy\Kolekcje\Kolekcje_przygotowanie_S2\bin\Debug\net7.0\Kolekcje_przygotowanie_S2.pdb
+D:\GitHub reps\2Egr1Csharp\Testy\Kolekcje\Kolekcje_przygotowanie_S2\obj\Debug\net7.0\Kolekcje_przygotowanie_S2.csproj.AssemblyReference.cache
+D:\GitHub reps\2Egr1Csharp\Testy\Kolekcje\Kolekcje_przygotowanie_S2\obj\Debug\net7.0\Kolekcje_przygotowanie_S2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub reps\2Egr1Csharp\Testy\Kolekcje\Kolekcje_przygotowanie_S2\obj\Debug\net7.0\Kolekcje_przygotowanie_S2.AssemblyInfoInputs.cache
+D:\GitHub reps\2Egr1Csharp\Testy\Kolekcje\Kolekcje_przygotowanie_S2\obj\Debug\net7.0\Kolekcje_przygotowanie_S2.AssemblyInfo.cs
+D:\GitHub reps\2Egr1Csharp\Testy\Kolekcje\Kolekcje_przygotowanie_S2\obj\Debug\net7.0\Kolekcje_przygotowanie_S2.csproj.CoreCompileInputs.cache
+D:\GitHub reps\2Egr1Csharp\Testy\Kolekcje\Kolekcje_przygotowanie_S2\obj\Debug\net7.0\Kolekcje_przygotowanie_S2.dll
+D:\GitHub reps\2Egr1Csharp\Testy\Kolekcje\Kolekcje_przygotowanie_S2\obj\Debug\net7.0\refint\Kolekcje_przygotowanie_S2.dll
+D:\GitHub reps\2Egr1Csharp\Testy\Kolekcje\Kolekcje_przygotowanie_S2\obj\Debug\net7.0\Kolekcje_przygotowanie_S2.pdb
+D:\GitHub reps\2Egr1Csharp\Testy\Kolekcje\Kolekcje_przygotowanie_S2\obj\Debug\net7.0\Kolekcje_przygotowanie_S2.genruntimeconfig.cache
+D:\GitHub reps\2Egr1Csharp\Testy\Kolekcje\Kolekcje_przygotowanie_S2\obj\Debug\net7.0\ref\Kolekcje_przygotowanie_S2.dll
