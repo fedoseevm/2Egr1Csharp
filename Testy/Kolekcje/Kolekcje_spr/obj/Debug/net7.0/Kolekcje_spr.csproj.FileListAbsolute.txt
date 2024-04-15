@@ -1,0 +1,15 @@
+C:\Users\uczen\repos\Kolekcje_spr\bin\Debug\net7.0\Kolekcje_spr.exe
+C:\Users\uczen\repos\Kolekcje_spr\bin\Debug\net7.0\Kolekcje_spr.deps.json
+C:\Users\uczen\repos\Kolekcje_spr\bin\Debug\net7.0\Kolekcje_spr.runtimeconfig.json
+C:\Users\uczen\repos\Kolekcje_spr\bin\Debug\net7.0\Kolekcje_spr.dll
+C:\Users\uczen\repos\Kolekcje_spr\bin\Debug\net7.0\Kolekcje_spr.pdb
+C:\Users\uczen\repos\Kolekcje_spr\obj\Debug\net7.0\Kolekcje_spr.csproj.AssemblyReference.cache
+C:\Users\uczen\repos\Kolekcje_spr\obj\Debug\net7.0\Kolekcje_spr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uczen\repos\Kolekcje_spr\obj\Debug\net7.0\Kolekcje_spr.AssemblyInfoInputs.cache
+C:\Users\uczen\repos\Kolekcje_spr\obj\Debug\net7.0\Kolekcje_spr.AssemblyInfo.cs
+C:\Users\uczen\repos\Kolekcje_spr\obj\Debug\net7.0\Kolekcje_spr.csproj.CoreCompileInputs.cache
+C:\Users\uczen\repos\Kolekcje_spr\obj\Debug\net7.0\Kolekcje_spr.dll
+C:\Users\uczen\repos\Kolekcje_spr\obj\Debug\net7.0\refint\Kolekcje_spr.dll
+C:\Users\uczen\repos\Kolekcje_spr\obj\Debug\net7.0\Kolekcje_spr.pdb
+C:\Users\uczen\repos\Kolekcje_spr\obj\Debug\net7.0\Kolekcje_spr.genruntimeconfig.cache
+C:\Users\uczen\repos\Kolekcje_spr\obj\Debug\net7.0\ref\Kolekcje_spr.dll

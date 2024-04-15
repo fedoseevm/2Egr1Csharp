@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\uczen\\2E MF\\2Egr1Csharp\\Testy\\Kolekcje\\Kolekcje_przygotowanie_S2\\Kolekcje_przygotowanie_S2.csproj": {}
+    "C:\\Users\\uczen\\2E MF\\2Egr1Csharp\\Testy\\Kolekcje\\Kolekcje_spr\\Kolekcje_spr.csproj": {}
   },
   "projects": {
-    "C:\\Users\\uczen\\2E MF\\2Egr1Csharp\\Testy\\Kolekcje\\Kolekcje_przygotowanie_S2\\Kolekcje_przygotowanie_S2.csproj": {
+    "C:\\Users\\uczen\\2E MF\\2Egr1Csharp\\Testy\\Kolekcje\\Kolekcje_spr\\Kolekcje_spr.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\uczen\\2E MF\\2Egr1Csharp\\Testy\\Kolekcje\\Kolekcje_przygotowanie_S2\\Kolekcje_przygotowanie_S2.csproj",
-        "projectName": "Kolekcje_przygotowanie_S2",
-        "projectPath": "C:\\Users\\uczen\\2E MF\\2Egr1Csharp\\Testy\\Kolekcje\\Kolekcje_przygotowanie_S2\\Kolekcje_przygotowanie_S2.csproj",
+        "projectUniqueName": "C:\\Users\\uczen\\2E MF\\2Egr1Csharp\\Testy\\Kolekcje\\Kolekcje_spr\\Kolekcje_spr.csproj",
+        "projectName": "Kolekcje_spr",
+        "projectPath": "C:\\Users\\uczen\\2E MF\\2Egr1Csharp\\Testy\\Kolekcje\\Kolekcje_spr\\Kolekcje_spr.csproj",
         "packagesPath": "C:\\Users\\uczen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\uczen\\2E MF\\2Egr1Csharp\\Testy\\Kolekcje\\Kolekcje_przygotowanie_S2\\obj\\",
+        "outputPath": "C:\\Users\\uczen\\2E MF\\2Egr1Csharp\\Testy\\Kolekcje\\Kolekcje_spr\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\uczen\\AppData\\Roaming\\NuGet\\NuGet.Config",

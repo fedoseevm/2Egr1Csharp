@@ -1,0 +1,8 @@
+C:\Users\uczen\repos\Kompozyt_4_system_plikow\bin\Debug\Kompozyt_4_system_plikow.exe.config
+C:\Users\uczen\repos\Kompozyt_4_system_plikow\bin\Debug\Kompozyt_4_system_plikow.exe
+C:\Users\uczen\repos\Kompozyt_4_system_plikow\bin\Debug\Kompozyt_4_system_plikow.pdb
+C:\Users\uczen\repos\Kompozyt_4_system_plikow\obj\Debug\Kompozyt_4_system_plikow.csproj.AssemblyReference.cache
+C:\Users\uczen\repos\Kompozyt_4_system_plikow\obj\Debug\Kompozyt_4_system_plikow.csproj.SuggestedBindingRedirects.cache
+C:\Users\uczen\repos\Kompozyt_4_system_plikow\obj\Debug\Kompozyt_4_system_plikow.csproj.CoreCompileInputs.cache
+C:\Users\uczen\repos\Kompozyt_4_system_plikow\obj\Debug\Kompozyt_4_system_plikow.exe
+C:\Users\uczen\repos\Kompozyt_4_system_plikow\obj\Debug\Kompozyt_4_system_plikow.pdb
