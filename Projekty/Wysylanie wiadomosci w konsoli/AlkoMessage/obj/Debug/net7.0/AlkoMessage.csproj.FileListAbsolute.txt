@@ -1,0 +1,15 @@
+C:\Users\uczen\repos\AlkoMessage\bin\Debug\net7.0\AlkoMessage.exe
+C:\Users\uczen\repos\AlkoMessage\bin\Debug\net7.0\AlkoMessage.deps.json
+C:\Users\uczen\repos\AlkoMessage\bin\Debug\net7.0\AlkoMessage.runtimeconfig.json
+C:\Users\uczen\repos\AlkoMessage\bin\Debug\net7.0\AlkoMessage.dll
+C:\Users\uczen\repos\AlkoMessage\bin\Debug\net7.0\AlkoMessage.pdb
+C:\Users\uczen\repos\AlkoMessage\obj\Debug\net7.0\AlkoMessage.csproj.AssemblyReference.cache
+C:\Users\uczen\repos\AlkoMessage\obj\Debug\net7.0\AlkoMessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uczen\repos\AlkoMessage\obj\Debug\net7.0\AlkoMessage.AssemblyInfoInputs.cache
+C:\Users\uczen\repos\AlkoMessage\obj\Debug\net7.0\AlkoMessage.AssemblyInfo.cs
+C:\Users\uczen\repos\AlkoMessage\obj\Debug\net7.0\AlkoMessage.csproj.CoreCompileInputs.cache
+C:\Users\uczen\repos\AlkoMessage\obj\Debug\net7.0\AlkoMessage.dll
+C:\Users\uczen\repos\AlkoMessage\obj\Debug\net7.0\refint\AlkoMessage.dll
+C:\Users\uczen\repos\AlkoMessage\obj\Debug\net7.0\AlkoMessage.pdb
+C:\Users\uczen\repos\AlkoMessage\obj\Debug\net7.0\AlkoMessage.genruntimeconfig.cache
+C:\Users\uczen\repos\AlkoMessage\obj\Debug\net7.0\ref\AlkoMessage.dll

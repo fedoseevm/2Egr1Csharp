@@ -1,0 +1,27 @@
+Program w konsoli.
+User chce wysłać wiadomość do koleżanki
+System sprawdza, czy jest zdolny do tego przez przydzielenie mu zadania matematycznego.
+W przypadku poprawnego rozwiązania pozwala napisać wiadomość i wybrać odbiorcę.
+
+Stwórz instalkę tego programu na system Windows.
+
+
+Spec tech:
+1. Funkcja wybierz adresata
+2. Funkcja napisz wiadomość
+3. Funkcja wyślij
+4. Funkcja sprawdź czy jest zdolny.
+
+Niech system wysyła wiadomość poprzez zapisanie jej w pliku wiadomosc.txt w katalogu programu.
+
+Działanie:
+- na początku będzie główne menu: 
+1. Napisz
+2. Czy zdolny
+3. Zapraszam wyjść
+
+Wybranie napisania jest możliwe po pozytywnym rozwiązaniu zadania. Wyjście zawsze jest możliwe. 
+Wybranie zadania też jest możliwe chyba, że jest już rozwiązanie to nie trzeba ponownie rozwiązywać.
+Po rozwiązaniu zadania wracamy do głównego menu.
+Po wybraniu napisz pojawia się lista dam. Po wybraniu damy można pisać i na końcu wysłać lub nie. 
+Po tej akcji wracamy do głownego menu.
