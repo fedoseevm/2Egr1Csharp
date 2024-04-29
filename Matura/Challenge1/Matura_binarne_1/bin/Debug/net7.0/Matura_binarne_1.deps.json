@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Matura_binarne_1/1.0.0": {
+        "runtime": {
+          "Matura_binarne_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Matura_binarne_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

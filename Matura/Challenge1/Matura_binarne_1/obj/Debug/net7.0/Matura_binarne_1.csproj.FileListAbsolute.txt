@@ -1,0 +1,15 @@
+C:\Users\uczen\repos\Matura_binarne_1\bin\Debug\net7.0\Matura_binarne_1.exe
+C:\Users\uczen\repos\Matura_binarne_1\bin\Debug\net7.0\Matura_binarne_1.deps.json
+C:\Users\uczen\repos\Matura_binarne_1\bin\Debug\net7.0\Matura_binarne_1.runtimeconfig.json
+C:\Users\uczen\repos\Matura_binarne_1\bin\Debug\net7.0\Matura_binarne_1.dll
+C:\Users\uczen\repos\Matura_binarne_1\bin\Debug\net7.0\Matura_binarne_1.pdb
+C:\Users\uczen\repos\Matura_binarne_1\obj\Debug\net7.0\Matura_binarne_1.csproj.AssemblyReference.cache
+C:\Users\uczen\repos\Matura_binarne_1\obj\Debug\net7.0\Matura_binarne_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uczen\repos\Matura_binarne_1\obj\Debug\net7.0\Matura_binarne_1.AssemblyInfoInputs.cache
+C:\Users\uczen\repos\Matura_binarne_1\obj\Debug\net7.0\Matura_binarne_1.AssemblyInfo.cs
+C:\Users\uczen\repos\Matura_binarne_1\obj\Debug\net7.0\Matura_binarne_1.csproj.CoreCompileInputs.cache
+C:\Users\uczen\repos\Matura_binarne_1\obj\Debug\net7.0\Matura_binarne_1.dll
+C:\Users\uczen\repos\Matura_binarne_1\obj\Debug\net7.0\refint\Matura_binarne_1.dll
+C:\Users\uczen\repos\Matura_binarne_1\obj\Debug\net7.0\Matura_binarne_1.pdb
+C:\Users\uczen\repos\Matura_binarne_1\obj\Debug\net7.0\Matura_binarne_1.genruntimeconfig.cache
+C:\Users\uczen\repos\Matura_binarne_1\obj\Debug\net7.0\ref\Matura_binarne_1.dll
